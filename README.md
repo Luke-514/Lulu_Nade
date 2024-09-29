@@ -5,7 +5,7 @@
   
 # 注意事項など
 ・対応アバターはらすちんワークス様の[ルル (Lulu)](https://aoikarasu.booth.pm/items/4271776)です  
-・MMDをONにした状態でMMDボタンを削除しているような場合は撫でられたときに表情が変わりません  
+・MMDボタンを削除している場合は撫でられたときに表情が変わらない可能性があります  
   
 # 導入手順
 1.&nbsp;[Modular Avatar](https://modular-avatar.nadena.dev/ja)をプロジェクトに追加します  

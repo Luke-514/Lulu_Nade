@@ -7,7 +7,8 @@
 ・対応アバターはらすちんワークス様の[ルル (Lulu)](https://aoikarasu.booth.pm/items/4271776)です  
 ・MMDボタンを削除している場合は撫でられたときに表情が変わらない可能性があります  
 ・FaceEmoを使用されている場合は、Contact設定にHead_ContactとMuzzle_Contactを追加する必要があります  
-・VRCQuestToolでQuest対応させる場合は、Contact Senders & Receivers to KeepにHead_ContactとMuzzle_Contactを追加する必要があります  
+・VRCQuestToolでQuest対応させる場合は、Contact Senders & Receivers to Keepに  
+&emsp;Head_ContactとMuzzle_Contactを追加する必要があります  
   
 # 導入手順
 1.&nbsp;[Modular Avatar](https://modular-avatar.nadena.dev/ja)をプロジェクトに追加します  

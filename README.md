@@ -6,11 +6,6 @@
 # 注意事項など
 ・対応アバターはらすちんワークス様の[ルル (Lulu)](https://aoikarasu.booth.pm/items/4271776)です  
 ・MMDボタンを削除している場合は撫でられたときに表情が変わらない可能性があります  
-・FaceEmoを使用されている場合は、Contact設定にHead_ContactとMuzzle_Contactを追加する必要があります  
-<img src="image/faceemo.png" width="30%" />  
-・VRCQuestToolでQuest対応させる場合は、Contact Senders & Receivers to Keepに  
-&emsp;Head_ContactとMuzzle_Contactを追加する必要があります  
-<img src="image/quest.png" width="30%" />  
   
 # 導入手順
 1.&nbsp;[Modular Avatar](https://modular-avatar.nadena.dev/ja)をプロジェクトに追加します  
@@ -22,6 +17,13 @@
 4.&nbsp;Assets>Lulu_Nadeの中にある**Head_Contact.prefab**と**Muzzle_Contact.prefab**を  
 &emsp;**Armature→Hips→Spine→Chest→Neck→Head**の中に追加します  
 <img src="image/Prefab配置.png" width="30%" />  
+  
+# 導入後の注意事項
+・FaceEmoを使用されている場合は、Contact設定にHead_ContactとMuzzle_Contactを追加する必要があります  
+<img src="image/faceemo.png" width="30%" />  
+・VRCQuestToolでQuest対応させる場合は、Contact Senders & Receivers to Keepに  
+&emsp;Head_ContactとMuzzle_Contactを追加する必要があります  
+<img src="image/quest.png" width="30%" />  
   
 # 参考
 ケーキのPC情報集会所  

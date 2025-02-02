@@ -1,7 +1,7 @@
 # 何ができるの？
 ・ルル君が撫でられたときに表情が変わるようになります  
 ・MMDをONにすると撫でられても表情が変わらなくなります  
-・[まばたきシステム](https://github.com/Luke-514/Lulu_Mabataki))と互換性があります  
+・[まばたきシステム](https://github.com/Luke-514/Lulu_Mabataki)と互換性があります  
 <img src="image/VRChat_2024-09-28_18-09-15.214_1920x1080.png" width="40%" />  
   
 # 注意事項など

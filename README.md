@@ -12,6 +12,13 @@
 ・[ルル少年期（Lulu.juvenileVer)](https://aoikarasu.booth.pm/items/6101679)、[ルル（Ifの姿） (Lulu.AnotherVer)](https://aoikarasu.booth.pm/items/6544416)に導入する場合は、  
 &emsp;Contactの位置(Position)と大きさ(Radius)を変更する必要があります  
 &emsp;<img src="image/位置サイズ調整.png" width="30%" />  
+### Ifルル参考値  
+#### Head_Contact  
+&emsp;Position：X=0 Y=0.116 Z=0  
+&emsp;Radius&nbsp;&nbsp;：0.17  
+#### Muzzle_Contact  
+&emsp;Position：X=0 Y=0.05 Z=0.16  
+&emsp;Radius&nbsp;&nbsp;：0.06  
   
 # 導入手順
 1.&nbsp;[Modular Avatar](https://modular-avatar.nadena.dev/ja)をプロジェクトに追加します  

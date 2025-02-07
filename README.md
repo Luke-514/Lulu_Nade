@@ -9,7 +9,7 @@
 ・MMDボタンを削除している場合は撫でられたときに表情が変わらない可能性があります  
 ・デフォルトでは自分で触れても反応しないようになっています  
 &emsp;(ContactのAllow Selfにチェックを入れると、自分で触れた際に反応するようになります)  
-・[ルル少年期（Lulu.juvenileVer)](https://aoikarasu.booth.pm/items/6101679)に導入する場合は、  
+・[ルル少年期（Lulu.juvenileVer)](https://aoikarasu.booth.pm/items/6101679)、[ルル（Ifの姿） (Lulu.AnotherVer)](https://aoikarasu.booth.pm/items/6544416)に導入する場合は、  
 &emsp;Contactの位置(Position)と大きさ(Radius)を変更する必要があります  
 &emsp;<img src="image/位置サイズ調整.png" width="30%" />  
   

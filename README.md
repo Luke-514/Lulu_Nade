@@ -48,6 +48,7 @@ Luke514
   
 # Special Thanks
 優希@白狼わんこ  
+kruztouya  
 
 # 関連アセット
 ・[まばたきシステム](https://github.com/Luke-514/Lulu_Mabataki)  

@@ -20,6 +20,14 @@
 &emsp;Position：X=0 Y=0.05 Z=0.16  
 &emsp;Radius&nbsp;&nbsp;：0.06  
   
+### ルル少年期参考値  
+#### Head_Contact  
+&emsp;Position：X=0 Y=0.135 Z=0.021  
+&emsp;Radius&nbsp;&nbsp;：0.17  
+#### Muzzle_Contact  
+&emsp;Position：X=0 Y=0.053 Z=0.178  
+&emsp;Radius&nbsp;&nbsp;：0.06  
+  
 # 導入手順
 1.&nbsp;[Modular Avatar](https://modular-avatar.nadena.dev/ja)をプロジェクトに追加します  
   

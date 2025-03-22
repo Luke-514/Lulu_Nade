@@ -60,6 +60,7 @@ Luke514
   
 # Special Thanks
 優希@白狼わんこ  
+kakuchrome  
 kruztouya  
 
 # 関連アセット

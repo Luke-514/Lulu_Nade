@@ -34,7 +34,7 @@
   
 2.&nbsp;[Releases](https://github.com/Luke-514/Lulu_Nade/releases/latest)からLulu_Nade.unitypackageをダウンロードして、プロジェクトにインポートします  
   
-3.&nbsp;Assets>Lulu_Nadeの中にある**Lulu_nade.prefab**をアバター直下に追加します  
+3.&nbsp;Assets>Luke's Assets>Lulu_Nadeの中にある**Lulu_nade.prefab**をアバター直下に追加します  
 &emsp;<img src="image/Prefab配置.png" width="30%" />  
   
 # 導入後の注意事項

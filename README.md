@@ -11,7 +11,7 @@
 &emsp;(ContactのAllow Selfにチェックを入れると、自分で触れた際に反応するようになります)  
 ・[ルル少年期（Lulu.juvenileVer)](https://aoikarasu.booth.pm/items/6101679)、[ルル（Ifの姿） (Lulu.AnotherVer)](https://aoikarasu.booth.pm/items/6544416)に導入する場合は、  
 &emsp;Contactの位置(Position)と大きさ(Radius)を変更する必要があります  
-&emsp;<img src="image/Contact配置.png" width="30%" />  
+&emsp;<img src="image/Contact配置.png" width="20%" />  
 &emsp;<img src="image/位置サイズ調整.png" width="30%" />  
 ### Ifルル参考値  
 #### Head_Contact  
@@ -35,7 +35,7 @@
 2.&nbsp;[Releases](https://github.com/Luke-514/Lulu_Nade/releases/latest)からLulu_Nade.unitypackageをダウンロードして、プロジェクトにインポートします  
   
 3.&nbsp;Assets>Luke's Assets>Lulu_Nadeの中にある**Lulu_nade.prefab**をアバター直下に追加します  
-&emsp;<img src="image/Prefab配置.png" width="30%" />  
+&emsp;<img src="image/Prefab配置.png" width="20%" />  
   
 # 導入後の注意事項
 ・FaceEmoを使用されている場合は、Contact設定にHead_ContactとMuzzle_Contactを追加する必要があります  
